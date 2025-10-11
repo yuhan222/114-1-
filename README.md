@@ -15,7 +15,3 @@ Homework2
 2.加入字體加粗
 
 [![2025-10-11-213413.png](https://i.postimg.cc/fbP1JZc4/2025-10-11-213413.png)](https://postimg.cc/Mcy9FC3t)
-
-<a href="https://postimg.cc/Mcy9FC3t">
-  <img src="https://i.postimg.cc/fbP1JZc4/2025-10-11-213413.png" alt="預覽圖" width="400"/>
-</a>
