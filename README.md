@@ -6,7 +6,7 @@
 
 Homework1個人網頁: https://yuhan222.github.io/my-website/index.html
 
-Homework2 https://github.com/yuhan222/my-website/blob/main/AItest.tsx
+Homework2 [AItest.tsx]https://github.com/yuhan222/my-website/blob/main/AItest.tsx
 
 1.加入「角色扮演」模式（例如：美食評論家、營養師）
 
