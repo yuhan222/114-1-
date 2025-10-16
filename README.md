@@ -4,9 +4,9 @@
 
 系級：科技系117
 
-Homework1個人網頁: https://yuhan222.github.io/my-website/index.html
+<h2><strong>Homework1個人網頁</strong></h2>: https://yuhan222.github.io/my-website/index.html
 
-Homework2 [AItest.tsx](https://github.com/yuhan222/my-website/blob/main/AItest.tsx)  [展示影片](https://youtu.be/MWRQ2jQzSUg)
+<h2><strong>Homework2</strong></h2> [AItest.tsx](https://github.com/yuhan222/my-website/blob/main/AItest.tsx)  [展示影片](https://youtu.be/MWRQ2jQzSUg)
 
 1.加入「角色扮演」模式（例如：美食評論家、營養師）
 
@@ -16,7 +16,7 @@ Homework2 [AItest.tsx](https://github.com/yuhan222/my-website/blob/main/AItest.t
 
 [圖片2](https://i.postimg.cc/fbP1JZc4/2025-10-11-213413.png)
 
-Homework3
+<h2><strong>Homework3</strong></h2>
 
 串接網頁圖片
 
