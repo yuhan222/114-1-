@@ -20,7 +20,7 @@
 
 <h2><strong>Homework3</strong></h2>
 
-[index.html](my-new-app/public/index.html)
+[index.html](my-new-app/public/index.html) [AItest.js](my-new-app/src/AItest.js)
 
 串接網頁圖片
 
