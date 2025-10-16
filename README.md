@@ -20,6 +20,8 @@
 
 <h2><strong>Homework3</strong></h2>
 
+<strong>[展示影片](https://youtu.be/8OuHwlvtzIU)</strong>
+
 [index.html](my-new-app/public/index.html) [AItest.js](my-new-app/src/AItest.js)
 
 串接網頁圖片
